@@ -1,0 +1,10 @@
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\bin\Debug\base64ileSifreleme.exe.config
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\bin\Debug\base64ileSifreleme.exe
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\bin\Debug\base64ileSifreleme.pdb
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.csproj.AssemblyReference.cache
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.Form1.resources
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.Properties.Resources.resources
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.csproj.GenerateResource.cache
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.exe
+C:\Users\Moongazing\source\repos\base64ileSifreleme\base64ileSifreleme\obj\Debug\base64ileSifreleme.pdb
